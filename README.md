@@ -14,14 +14,14 @@ This repository documents my progress and learning experience throughout the Goo
 - [x] 1.6 Protecting Networks and Information
 
 #### Course 2: Play It Safe - Manage Security Risks
-- [x] 2.1 Understanding Risk Management Principles
-- [x] 2.2 Identifying and Analyzing Security Risks
-- [x] 2.3 Implementing Risk Mitigation Strategies
+- [ ] 2.1 Understanding Risk Management Principles
+- [ ] 2.2 Identifying and Analyzing Security Risks
+- [ ] 2.3 Implementing Risk Mitigation Strategies
 
 #### Course 3: Connect and Protect - Networks and Network Security
-- [x] 3.1 Network Basics
-- [x] 3.2 Security Protocols
-- [x] 3.3 Access Control and Segmentation
+- [ ] 3.1 Network Basics
+- [ ] 3.2 Security Protocols
+- [ ] 3.3 Access Control and Segmentation
 
 #### Course 4: Tools of the Trade - Linux and SQL
 - [ ] 4.1 Introduction to Linux for Cybersecurity
