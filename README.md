@@ -6,22 +6,22 @@ This repository documents my progress and learning experience throughout the Goo
 ### 🏆 Course Progress
 
 #### Course 1: Foundations of Cybersecurity
-- [ ] 1.1 Introduction to Cybersecurity
-- [ ] 1.2 Career Preparation for Security Analysts
-- [ ] 1.3 Defining Cybersecurity
-- [ ] 1.4 Entry-Level Security Analyst Responsibilities
-- [ ] 1.5 Skills and Knowledge for Security Analysts
-- [ ] 1.6 Protecting Networks and Information
+- [x] 1.1 Introduction to Cybersecurity
+- [x] 1.2 Career Preparation for Security Analysts
+- [x] 1.3 Defining Cybersecurity
+- [x] 1.4 Entry-Level Security Analyst Responsibilities
+- [x] 1.5 Skills and Knowledge for Security Analysts
+- [x] 1.6 Protecting Networks and Information
 
 #### Course 2: Play It Safe - Manage Security Risks
-- [ ] 2.1 Understanding Risk Management Principles
-- [ ] 2.2 Identifying and Analyzing Security Risks
-- [ ] 2.3 Implementing Risk Mitigation Strategies
+- [x] 2.1 Understanding Risk Management Principles
+- [x] 2.2 Identifying and Analyzing Security Risks
+- [x] 2.3 Implementing Risk Mitigation Strategies
 
 #### Course 3: Connect and Protect - Networks and Network Security
-- [ ] 3.1 Network Basics
-- [ ] 3.2 Security Protocols
-- [ ] 3.3 Access Control and Segmentation
+- [x] 3.1 Network Basics
+- [x] 3.2 Security Protocols
+- [x] 3.3 Access Control and Segmentation
 
 #### Course 4: Tools of the Trade - Linux and SQL
 - [ ] 4.1 Introduction to Linux for Cybersecurity
